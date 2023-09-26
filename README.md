@@ -1,22 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muneeb</h1>
-<h3 align="center">Student of Computer Science, a self-learner and a tech enthusiast.</h3>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif">Hey, I'm Muneeb👨‍💻</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebbatavia&label=Profile%20views&color=0e75b6&style=flat" alt="muneebbatavia" /> </p>
+# 💫 About Me:
+🔭 I’m currently working as an App Developer <br>👯 Frontend and Backend developer passionate about Android Apps.<br>🤝 I’m looking for help with<br>🌱 I’m always eager to learn new Technologies.<br>💬 Ask me about anything related to Programming.<br>⚡ Fun fact: I love coding from dusk to dawn!
 
-- 🌱 I’m eager to learn **new things anytime.**
 
-- 💬 Ask me about **anything related to programming.**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/Muneebbatvia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneebbatavia) 
+[![Gmail](https://img.shields.io/badge/muneebatvia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hmailto:muneebatvia@gmail.com) 
 
-- 📫 How to reach me **muneebatvia@gmail.com**
 
-- ⚡ Fun fact **I love coding from dusk to dawn!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muneebbatavia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneebbatavia" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneebbatavia&show_icons=true&locale=en" alt="muneebbatavia" /></p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
